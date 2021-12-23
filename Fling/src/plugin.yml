@@ -1,0 +1,9 @@
+name: Fling
+version: 1.0
+author: Wekend
+main: com.wekend.fling.Fling
+api-version: 1.18
+commands:
+  fling:
+    description: flings specified player
+    usage: /<command>
